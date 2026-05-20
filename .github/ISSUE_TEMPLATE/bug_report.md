@@ -21,7 +21,9 @@ What you expected to happen.
 What actually happened.
 
 ## Diagnostic Output
-The app has a built-in debug feature (Settings → Debug Tape) that can capture detailed logs. If the bug is playback- or connectivity-related, please attach the output here — it helps a lot.
+The app has a built-in debug feature (Settings → Debug Tape) that captures playback and connectivity events. If your bug is related to audio playback or network issues, attaching the tape output helps a lot.
+
+> **Privacy note:** The tape log may include article titles, feed names, and music playlist names from your library. It does **not** contain your email address, authentication tokens, or audio file content. Only attach it if you're comfortable sharing that information publicly.
 
 ## Platform
 - **Device:** e.g. iPhone 15 Pro / MacBook Air M2
