@@ -25,6 +25,15 @@ The app has a built-in debug feature (Settings → Debug Tape) that captures pla
 
 > **Privacy note:** The tape log may include article titles, feed names, and music playlist names from your library. It does **not** contain your email address, authentication tokens, or audio file content. Only attach it if you're comfortable sharing that information publicly.
 
+<details>
+<summary>Paste tape output here (click to expand)</summary>
+
+```
+(paste here)
+```
+
+</details>
+
 ## Platform
 - **Device:** e.g. iPhone 15 Pro / MacBook Air M2
 - **OS Version:** e.g. iOS 18.2 / macOS 15.2
