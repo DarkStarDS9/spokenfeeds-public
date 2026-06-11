@@ -22,7 +22,7 @@ The application code lives in a private repository.
 
 | | |
 |---|---|
-| **App** | *(link coming soon)* |
+| **App** | [Download on the App Store](https://apps.apple.com/app/id6762210307) |
 | **Documentation** | [Wiki](https://github.com/DarkStarDS9/spokenfeeds-public/wiki) |
 
 ---
